@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/CabinetGrotesk-Bold.otf",
+      "sha1": "553f503c569a15d5ef012d2bf1bb42acea4ea36e"
+    },
+    {
+      "path": "assets/fonts/CabinetGrotesk-Bold.ttf",
+      "sha1": "b6f1b7784c6377527a46fa3ffd7e45c1aead5d5a"
+    },
+    {
+      "path": "assets/fonts/CabinetGrotesk-Medium.otf",
+      "sha1": "42a03d5987676ed3dba88c8a5fb19b3754181232"
+    },
+    {
+      "path": "assets/fonts/CabinetGrotesk-Medium.ttf",
+      "sha1": "575d3057d18267b563a3f05d80230bcaa7c5213a"
+    },
+    {
+      "path": "assets/fonts/CabinetGrotesk-Regular.otf",
+      "sha1": "f4464f4cc0a4c62c6a331938aaefdba5050a26f7"
+    },
+    {
+      "path": "assets/fonts/CabinetGrotesk-Regular.ttf",
+      "sha1": "4e5b427100453cc30f3a4dd5898146b58177cd49"
+    },
+    {
+      "path": "assets/fonts/FamiljenGroteskGF-Bold.ttf",
+      "sha1": "198fb01db9c54b8aaa509880bd71f012359cf560"
+    },
+    {
+      "path": "assets/fonts/FamiljenGroteskGF-Medium.ttf",
+      "sha1": "c0251104222d7404eb486719bbec902195a4ee73"
+    },
+    {
+      "path": "assets/fonts/FamiljenGroteskGF-Regular.ttf",
+      "sha1": "884f7c8a0adae820dd362c58ae7764c2841507fd"
+    },
+    {
+      "path": "assets/fonts/GeneralSans-Bold.ttf",
+      "sha1": "2dc5b9908d7f2465aff2bed5243cdff8907ad27d"
+    },
+    {
+      "path": "assets/fonts/GeneralSans-Medium.ttf",
+      "sha1": "76717a55871484c722d660428ea7100d1a8646da"
+    },
+    {
+      "path": "assets/fonts/GeneralSans-Regular.ttf",
+      "sha1": "8c7219592ebe79f7b0fd9b9a7bbda5ac208bf7b7"
+    },
+    {
+      "path": "assets/fonts/MaxTF-Bold.otf",
+      "sha1": "3e6895a3f28043af73648b87bffc4ad8d597821b"
+    },
+    {
+      "path": "assets/fonts/NanumPen.ttf",
+      "sha1": "b04563a07506b5f8d7c9a2f6392474a6b5a98e74"
+    },
+    {
+      "path": "assets/fonts/SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json", 
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": "./",
+    "paths": {
+      "*": ["./src/*"],
+      "@assets": ["./assets"],
+      "@icons": ["./assets/icons"],
+      "@images": ["./assets/images"],
+      "@atoms": ["./src/components/atoms"],
+      "@lib": ["./src/lib"],
+      "@molecules": ["./src/components/molecules"],
+      "@organisms": ["./src/components/organisms"],
+      "@models": ["./src/models"],
+      "@mocks": ["./mocks"],
+      "@navigation": ["./src/navigation"],
+      "@screens": ["./src/screens"],
+      "@store": ["./src/store"],
+      "@actions/*": ["./src/store/actions/*"],
+      "@reducers/*": ["./src/store/reducers/*"],
+      "@selectors/*": ["./src/store/selectors/*"],
+      "@theme": ["./src/theme"],
+      "@utils": ["./src/utils"],
+    }
+  }
+}
